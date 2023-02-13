@@ -1,0 +1,3 @@
+# Cricket-Coin-Toss-Data-Analysis
+
+This was a 4th year Data Analytics assignment I completed as part of a Data Analytics module which used Python and Jupyter Notebook. This assignment aimed to explore the effects of winning the coin toss have had across all forms of men's cricket. Data was scraped from the website https://www.espncricinfo.com/ using a custom script I made in python which is the file "ESPN Cricinfo web scraper.py". The data generated from the web scraping was inserted into 3 csv files, each of which containing information results of games of the three forms of cricket played, including information on the toss winner. 
